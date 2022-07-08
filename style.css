@@ -1,0 +1,19 @@
+h2{
+    color:red;
+    position: fixed;
+}
+
+.main-div{
+    background-color: aquamarine;
+    color: red;
+}
+#car-names{
+    color:black;
+    position:relative;
+    border:30px solid mediumspringgreen;
+    left:40px;
+}
+body{
+    height:1000px;
+    border:15px solid brown;
+}
